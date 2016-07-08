@@ -1,0 +1,46 @@
+True
+Ejercicio 1. Algoritmo extendido de Euclides
+Parámetros: a= 4864  b= 3458
+Solucion:  (38, 32, -45)
+Tiempo de ejecución medio( 100 ejecuciones):  3.159190000019407e-06
+---------------------------------------------------------
+Ejercicio 2. Inverso modular
+Parámetros: a= 117  b= 244
+Solucion:  73
+Tiempo de ejecución medio( 100 ejecuciones):  3.3117799998194643e-06
+---------------------------------------------------------
+Ejercicio 3. Exponenciación modular
+Parámetros: a= 5  b= 596 n= 1234
+Solucion:  1013
+Tiempo de ejecución medio( 100 ejecuciones):  7.066160000022137e-06
+---------------------------------------------------------
+Ejercicio 4. Miller-Rabbin
+Parámetros: a= 123456789101119
+Solucion:  True
+Tiempo de ejecución medio( 100 ejecuciones):  0.000316986800000052
+---------------------------------------------------------
+Ejercicio 5. Paso enano-paso Gigante
+Parámetros: a= 3  b= 57 n= 113
+Solucion:  100
+Tiempo de ejecución medio( 100 ejecuciones):  1.0356580000063787e-05
+---------------------------------------------------------
+Ejercicio 6. Raiz cuadrada modular
+Parámetros: a= 319  b= 57 n= 113
+Solucion:  242
+Tiempo de ejecución medio( 100 ejecuciones):  4.685485999999628e-05
+---------------------------------------------------------
+Ejercicio 6. Raiz cuadrada modular pro
+Parámetros: a= 132  p= 17 q= 29  n= 493
+Solucion:  (25, 468, 178, 315)
+Tiempo de ejecución medio( 100 ejecuciones):  6.264711999989458e-05
+---------------------------------------------------------
+Ejercicio 7. Metodo de Fermat
+Parámetros: n= 5959
+Solucion:  (59, 101)
+Tiempo de ejecución medio( 100 ejecuciones):  2.871760000004997e-06
+---------------------------------------------------------
+Ejercicio 7. Rho de Pollard
+Parámetros: n= 455459
+Solucion:  743
+Tiempo de ejecución medio( 100 ejecuciones):  5.4340000000081544e-05
+---------------------------------------------------------
